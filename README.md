@@ -65,11 +65,6 @@ interests: чо нету я гуль
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=xokeza&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&include_all_commits=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xokeza&layout=compact&hide_border=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="170" alt="Top languages" />
-
-  <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xokeza&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=7aa2f7" height="170" alt="GitHub Streak" />
 
 </div>
