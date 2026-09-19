@@ -1,6 +1,6 @@
 <div align="center">
-
-  <img src="https://64.media.tumblr.com/533d3e9a188293a8139b7f3368f18b06/tumblr_oqy0del1qh1vlb6q0o2_540.gifv" onerror="this.onerror=null; this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dzBwb3ZyeXVjbmVucXk0ZnlvNHMydmYxa2lqdGkyeDV1eHRlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif';" width="100%" alt="Anime Header Banner" style="border-radius: 12px;" />
+  
+  <img src="https://i.pinimg.com/originals/5c/84/56/5c8456fe235b39acf9b6cf970261d29b.gif" width="100%" alt="Anime Header Banner" />
 
   <br/><br/>
 
@@ -26,7 +26,6 @@ name: xokeza
 role: Software Developer
 current_focus: Backend, Mobile Apps & Web
 interests: чо нету я гуль
-favorite_quote: "Whatever happens, happens."
 ```
 
 - 🔭 Разрабатываю веб-сервисы, ботов и мобильные приложения.
