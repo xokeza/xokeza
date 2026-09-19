@@ -80,13 +80,13 @@ interests: чо нету я гуль
 
 <div align="center">
 
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/xokeza" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:xokeza17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.com/users/xokeza" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
