@@ -21,11 +21,13 @@
 
 ### 🌸 Немного обо мне
 
+```yaml
 name: xokeza
 role: Software Developer
 current_focus: Backend, Mobile Apps & Web
 interests: чо нету я гуль
 favorite_quote: "Whatever happens, happens."
+```
 
 - 🔭 Разрабатываю веб-сервисы, ботов и мобильные приложения.
 - 💡 Люблю писать чистый, структурированный код и оптимизировать рутину.
