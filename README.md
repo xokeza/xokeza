@@ -1,94 +1,25 @@
 <div align="center">
-  
-  <img src="https://i.pinimg.com/originals/5c/84/56/5c8456fe235b39acf9b6cf970261d29b.gif" width="100%" alt="Anime Header Banner" />
 
-  <br/><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m xokeza"></picture>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&random=false&width=500&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+xokeza;Fullstack+%26+Mobile+Developer;Python+%E2%80%A2+JS%2FTS+%E2%80%A2+Kotlin+%E2%80%A2+Java" alt="Typing SVG" />
-  </a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="23.944%" alt=""></picture><a href="https://t.me/xokeza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://xokeza.su/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.500%" alt="language"></picture></a><a href="https://tiktok.com/@xokeza1337"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.488%" alt="tiktok"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="23.944%" alt=""></picture>
 
-  <p align="center">
-    <a href="https://github.com/xokeza">
-      <img src="https://komarev.com/ghpvc/?username=xokeza&label=PROFILE+VIEWS&style=flat-square&color=7aa2f7" alt="Profile views" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-%D0%B2%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9-bb9af7?style=flat-square" alt="Status" />
-  </p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/xokeza/KeeplyGram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keeplygram-dark.svg"><img src="assets/project-keeplygram-light.svg" width="49%" alt="KeeplyGram"></picture></a>&nbsp;<a href="https://github.com/xokeza/YaMusicMod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-yamusicmod-dark.svg"><img src="assets/project-yamusicmod-light.svg" width="49%" alt="YaMusicMod"></picture></a>
 
-### 🌸 Немного обо мне
+<a href="https://github.com/xokeza/dota2-grid-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dota2-grid-toolkit-dark.svg"><img src="assets/project-dota2-grid-toolkit-light.svg" width="49%" alt="dota2-grid-toolkit"></picture></a>&nbsp;<a href="https://github.com/xokeza/tg-sandbox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tg-sandbox-dark.svg"><img src="assets/project-tg-sandbox-light.svg" width="49%" alt="tg-sandbox"></picture></a>
 
-```yaml
-name: xokeza
-role: Software Developer
-current_focus: Backend, Mobile Apps & Web
-interests: чо нету я гуль
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-### 💻 Стек технологий
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<div align="center">
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/xokeza?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-#### ⚡️ Языки программирования
+<a href="https://metawka.github.io/expressive-profile/?from=xokeza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🛠 Инструменты и окружение
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub Статистика
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xokeza&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=7aa2f7" height="170" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 💬 Связаться со мной
-
-<div align="center">
-
-  <a href="https://t.me/xokeza" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:xokeza17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/xokeza" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%"/>
 </div>
