@@ -10,7 +10,7 @@
 
 <a href="https://github.com/xokeza/dota2-grid-toolkit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dota2-grid-toolkit-dark.svg"><img src="assets/project-dota2-grid-toolkit-light.svg" width="49%" alt="dota2-grid-toolkit"></picture></a>&nbsp;<a href="https://github.com/xokeza/YaMusicMod"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-yamusicmod-dark.svg"><img src="assets/project-yamusicmod-light.svg" width="49%" alt="YaMusicMod"></picture></a>
 
-<a href="https://github.com/xokeza/tg-sandbox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tg-sandbox-dark.svg"><img src="assets/project-tg-sandbox-light.svg" width="49%" alt="tg-sandbox"></picture></a>
+<a href="https://github.com/xokeza/tg-sandbox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tg-sandbox-dark.svg"><img src="assets/project-tg-sandbox-light.svg" width="49%" alt="tg-sandbox"></picture></a>&nbsp;<a href="https://github.com/xokeza/KeeplyGram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keeplygram-dark.svg"><img src="assets/project-keeplygram-light.svg" width="49%" alt="KeeplyGram"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
