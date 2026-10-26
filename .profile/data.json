@@ -1,5 +1,5 @@
 {
- "key": "d82a34ef",
+ "key": "8bcce5d0",
  "stars": 5,
  "contributions": 136,
  "repos": 8,
@@ -132,15 +132,6 @@
   "longest": 4
  },
  "pins": [
-  {
-   "name": "dota2-grid-toolkit",
-   "url": "https://github.com/xokeza/dota2-grid-toolkit",
-   "text": "короче сами поймете епт",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
-  },
   {
    "name": "YaMusicMod",
    "url": "https://github.com/xokeza/YaMusicMod",
