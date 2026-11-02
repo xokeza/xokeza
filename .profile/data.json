@@ -1,7 +1,7 @@
 {
- "key": "7e4a1619",
+ "key": "86626344",
  "stars": 5,
- "contributions": 151,
+ "contributions": 140,
  "repos": 9,
  "followers": 0,
  "languages": [
@@ -27,7 +27,7 @@
   ],
   [
    "Python",
-   6951
+   1716
   ],
   [
    "C",
@@ -79,12 +79,12 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 0,
     "day": 26,
     "today": false
    },
    {
-    "c": 9,
+    "c": 0,
     "day": 27,
     "today": false
    },
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 2,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [
@@ -198,12 +198,12 @@
    "topics": []
   },
   {
-   "name": "Language-Kurs",
-   "url": "https://github.com/xokeza/Language-Kurs",
-   "text": "For Zalupa_Team",
+   "name": "Aria",
+   "url": "https://github.com/xokeza/Aria",
+   "text": "Aria is the best music player with YouTube Music & SoundCloud & Yandex Music library and WebGL shader visuals.",
    "fork": false,
    "stars": 0,
-   "language": "Python",
+   "language": null,
    "topics": []
   },
   {
