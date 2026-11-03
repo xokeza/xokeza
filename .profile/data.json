@@ -1,5 +1,5 @@
 {
- "key": "86626344",
+ "key": "ca89a745",
  "stars": 5,
  "contributions": 140,
  "repos": 9,
@@ -118,9 +118,13 @@
    {
     "c": 2,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
