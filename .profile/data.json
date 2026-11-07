@@ -1,5 +1,5 @@
 {
- "key": "ac5fbc05",
+ "key": "f0870006",
  "stars": 5,
  "contributions": 142,
  "repos": 9,
@@ -138,9 +138,13 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
