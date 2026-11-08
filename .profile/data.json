@@ -1,7 +1,7 @@
 {
- "key": "34ae4407",
+ "key": "5c823749",
  "stars": 5,
- "contributions": 142,
+ "contributions": 143,
  "repos": 9,
  "followers": 0,
  "languages": [
@@ -79,7 +79,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 2,
     "today": false
    },
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 3,
     "day": 8,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [
@@ -194,9 +194,9 @@
    "topics": []
   },
   {
-   "name": "Aria",
-   "url": "https://github.com/xokeza/Aria",
-   "text": "Aria is the best music player with YouTube Music & SoundCloud & Yandex Music library and WebGL shader visuals.",
+   "name": "Amour",
+   "url": "https://github.com/xokeza/Amour",
+   "text": "Your music app with no subscriptions <3",
    "fork": false,
    "stars": 0,
    "language": null,
