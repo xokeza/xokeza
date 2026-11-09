@@ -1,6 +1,6 @@
 {
- "key": "5c823749",
- "stars": 5,
+ "key": "b668cdbe",
+ "stars": 6,
  "contributions": 143,
  "repos": 9,
  "followers": 0,
@@ -26,12 +26,12 @@
    85987
   ],
   [
-   "Python",
-   1716
+   "Java",
+   2407
   ],
   [
-   "C",
-   984
+   "Python",
+   1716
   ]
  ],
  "days": [
@@ -113,9 +113,13 @@
    {
     "c": 3,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -167,6 +171,15 @@
    "topics": []
   },
   {
+   "name": "fuckvoice",
+   "url": "https://github.com/xokeza/fuckvoice",
+   "text": "Say NO! to big corporations. A mod to unlock Voice Chat on the EnvyWorld server — for ANY launcher",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "YaMusicMod",
    "url": "https://github.com/xokeza/YaMusicMod",
    "text": "Расширьте возможности Yandex Music Desktop. Проект добавляет множество новых функций, а также исправляет грехи ванильного клиента",
@@ -197,15 +210,6 @@
    "name": "Amour",
    "url": "https://github.com/xokeza/Amour",
    "text": "Your music app with no subscriptions <3",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "fuckvoice",
-   "url": "https://github.com/xokeza/fuckvoice",
-   "text": "Say NO! to big corporations. A mod to unlock Voice Chat on the EnvyWorld server — for ANY launcher",
    "fork": false,
    "stars": 0,
    "language": null,
